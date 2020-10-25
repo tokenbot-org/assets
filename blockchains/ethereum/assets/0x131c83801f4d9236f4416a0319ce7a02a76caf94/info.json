@@ -1,0 +1,28 @@
+{
+    "name": "TokenBot",
+    "website": "https://tokenbot.com/",
+    "short_description": "TokenBot is an automated copy trading platform powered by our decentralized ERC-20 token (TKB) and our incentive rewards DApp.",
+    "explorer": "https://etherscan.io/token/0x131c83801f4d9236f4416a0319ce7a02a76caf94",
+    "socials": [
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/AvZMQV"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/tokenbot"
+        },
+	        {
+            "name": "Medium",
+            "url": "https://tokenbot.commedium.com/"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/my_tokenbot"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/tokenbot-org"
+        }
+    ]
+} 
